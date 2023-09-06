@@ -30,14 +30,14 @@
 <br>
 
 <p align="center">
-
-- **Programming**
     
 - **Front-End Development**
 
-- **Android Development**
+- **Mobile App Development**
 
-- **Software Engineering**
+- **Back-End Development**
+
+- **Programming Languages**
 
   
 
