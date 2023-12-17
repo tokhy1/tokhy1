@@ -18,7 +18,6 @@
 <br>
 
 - A passionate Self-taught Mobile App Developer & Frontend Developer
-- Currently learning Mobila App Development by Self
 - Always trying to learn something that has value
 - Building Innovative Apps & Websites
 
