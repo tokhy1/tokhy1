@@ -17,7 +17,7 @@
 
 <br>
 
-- A passionate Self-taught Mobile App Developer & Frontend Developer
+- A passionate Self-taught Mobile App Developer & Full-Stack Developer
 - Always trying to learn something that has value
 - Building Innovative Apps & Websites
 
