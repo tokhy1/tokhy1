@@ -36,7 +36,7 @@
 
 - **Back-End Development**
 
-- **Programming Languages**
+- **Full-Stack Development**
 
   
 
