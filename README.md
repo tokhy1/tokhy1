@@ -6,11 +6,7 @@
   
 </p>
 
-
 <br>
-
-
-
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -26,8 +22,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Topics I post about </b>
-<br>
 
+<br>
 <p align="center">
     
 - **Mobile App Development**
@@ -40,14 +36,24 @@
 
 - **MERN-Stack Development**
 
-  
-
-
-
-
 </p>
 
 <br>
+
+<h2>📊 Github Stats and Activity</h2>
+
+<h3>🔥 Streak Stats</h3>
+
+<p>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tokhy's streak" src="https://streak-stats.demolab.com/?user=tokhy1&theme=monokai-metallian&hide_border=true"/>
+</p>
+
+<h3>💻 GitHub Profile Stats</h3>
+
+<img alt="Avinash's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=tokhy1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+
+<img alt="Avinash's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tokhy1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+
 <br>
 
 
