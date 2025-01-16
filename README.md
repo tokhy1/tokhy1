@@ -15,7 +15,6 @@
 - A passionate Self-taught Mobile App Developer & Full-Stack Developer 💻
 - Always trying to learn something that has value 🤓
 - Building Innovative Apps & Websites 🚀
-- Helping people is a main target 👌
 
 <br>
 
